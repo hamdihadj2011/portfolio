@@ -20,7 +20,7 @@ body{
 a{
 	text-decoration: none;
 }
-nav{
+/*nav{
 	background-color: #fff;
 	color: #000;
 	height: 53px;
@@ -29,10 +29,15 @@ nav{
     top: 0;
     width: 100%;
     z-index: 999;
-    box-shadow: 0px 3px 4.6px 0.3px rgba(0,0,0,0.25)
-}
+    box-shadow: 0px 3px 4.6px 0.3px rgba(0,0,0,0.25);
+    display: none;
+}*/
 
-nav a{
+/*.navbar-collapse{
+	background-color: #000;
+	width: 200px
+}*/
+/*nav a{
 	color: #000;
 }
 nav a:hover li{
@@ -64,7 +69,7 @@ nav .container{
 
 nav .container a{
 	flex-grow: 2
-}
+}*/
 
 header{
 	background-image: url(../img/home-bg.jpeg);
@@ -204,3 +209,54 @@ footer{
 	padding:20px 0;
 	color: #fff
 }
+
+
+
+
+
+/*.check{
+	margin-right: 100px
+}
+
+.menu-icon span{
+	display: block;
+	width: 30px;
+	height: 5px;
+	background-color:#000;
+	margin-top: 4px;
+	text-align: right;
+}
+
+.menu-icon{
+	float: right;
+	margin-top: -40px;
+	margin-right: -20px;
+	cursor: pointer;
+}
+#menutoggle{
+	display: none;
+}
+.nav-mobile{
+	background-color: #fff;
+	width: 437px;
+	margin-top: 10px;
+
+
+}
+.nav-mobile ul li {
+	float: left;
+	padding-top: 10px;
+	padding-left: 20px
+}
+
+.nav-mobile a:hover li{
+	text-decoration: none;
+	color: #E91E63;
+	border-top: none;
+	border-bottom: none;
+
+}
+
+.nav-mobile a:hover{
+	text-decoration: none;
+}*/
