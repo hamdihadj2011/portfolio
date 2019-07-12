@@ -194,7 +194,10 @@ header .text p{
 .html {width: 90%; background-color: #4CAF50;}
 .css {width: 80%; background-color: #2196F3;}
 .jq {width: 60%; background-color: #f44336;}
-.js {width: 50%; background-color: #808080;}
+.js {width: 65%; background-color: #808080;}
+.react {width: 60%; background-color: #cf0a21;}
+.node {width: 60%; background-color: #cf0aab;}
+.mongo {width: 60%; background-color: #0acf4f;}
 
 
 
